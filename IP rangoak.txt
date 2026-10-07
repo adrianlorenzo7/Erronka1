@@ -1,6 +1,8 @@
 Zerbitzariak 192.168.10.1 - 192.168.10.10
 Windows server 192.168.10.1/24
 Ubuntu server 192.168.10.2/24
+GLPI 192.168.10.2/24
+Cups server 192.168.10.3/24
 DHCP
 192.168.10.50/24 - 192.168.10.150/24
 Inprimagailuak esklusioa
