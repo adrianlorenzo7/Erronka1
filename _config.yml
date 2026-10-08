@@ -3,7 +3,7 @@ description: "Proiektuko dokumentazio ofiziala"
 theme: minima
 
 header_pages:
-  - README.md
+  - Dokumentazioa.md
   - Datu Baseak kudeatzeko administrazioa.md
   - Hardware oinarriak.md
   - Hacking etikoa.md
