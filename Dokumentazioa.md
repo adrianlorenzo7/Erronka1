@@ -8,6 +8,6 @@ Hemen proiektuko modulu eta asignatura bakoitzaren dokumentazioa aurkituko duzu:
 * [Sareko zerbitzuak eta internet](Sareko%20zerbitzuak%20eta%20internet.md)
 * [Web aplikazioak ezartzea](Web%20aplikazioak%20ezartzea.md)
 * [Produkzio-sistemari aplikatutako iraunkortasuna](Produkzio%20sistemari%20aplikatutako%iraunkortasuna.md)
-* [Segurtasuna eta erabilgarritasun handia](Segurtasun%20eta%20erabilgarritasun%handia.md)
+* [Segurtasuna eta erabilgarritasun handia](Segurtasun%20eta%20erabilgarritasun%20handia.md)
 * [Sistema banatuak](Sistema%20banatuak.md)
-* [Sistema eragileak administratzea](Sistema%20eragileak.md)
+* [Sistema eragileak administratzea](Sistema%20eragileak%20administratzea.md)
