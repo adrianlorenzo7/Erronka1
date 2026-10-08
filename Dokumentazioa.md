@@ -7,3 +7,4 @@ Hemen proiektuko modulu eta asignatura bakoitzaren dokumentazioa aurkituko duzu:
 * [Hacking etikoa](Hacking%20etikoa.md)
 * [Sareko zerbitzuak eta internet](Sareko%20zerbitzuak%20eta%20internet.md)
 * [Web aplikazioak ezartzea](Web%20aplikazioak%20ezartzea.md)
+* [Produkzio-sistemari aplikatutako ](Web%20aplikazioak%20ezartzea.md)
