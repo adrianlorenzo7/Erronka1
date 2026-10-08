@@ -1,1 +1,12 @@
+title: "Erronka 1 - Dokumentazioa"
+description: "Proiektuko dokumentazio ofiziala"
+theme: minima
 
+header_pages:
+  - README.md
+  - Datu Baseak kudeatzeko administrazioa.md
+  - Hardware oinarriak.md
+  - Hacking etikoa.md
+  - Sareko zerbitzuak eta internet.md
+  - Web aplikazioak ezartzea.md
+  - Produkzio-sistemari aplikatutako
