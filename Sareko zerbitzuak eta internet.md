@@ -28,3 +28,5 @@ title: "Sareko zerbitzuak eta internet"
 ![SZ 7](./img/SZ7.png)
 
 ![SZ 8](./img/SZ8.png)
+
+![SZ 8](./img/SZ9.png)
