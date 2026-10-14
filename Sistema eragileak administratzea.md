@@ -39,13 +39,27 @@ Windows Server sisteman, **Rolak eta ezaugarriak gehitzeko laguntzailean** zerbi
 Zerbitzaria gure sareko domeinu-kontrolatzaile nagusi gisa prestatzen ari gara.
 ![SEA 3](./img/SEA3.png)
 
+# Rol eta Ezaugarrien Instalazioaren Jarraipena
+
+Windows Server sisteman, aurreko urratsean hautatutako rolak, ezaugarriak eta kudeaketa-tresnak instalatzen ari gara `ORBIS_WINDOWS` zerbitzarian.
+
+### Instalatzen ari diren osagai nagusiak:
+* **Talde-direktiben kudeaketa (GPO):** Sareko politikak kudeatzeko tresnak.
+* **AD DS kudeaketa-tresnak:** Active Directory eta PowerShell moduluak kudeatzeko tresnak.
+* **DHCP eta DNS zerbitzarien kudeaketa-tresnak:** Zerbitzu hauek administratzeko lanabesak.
+
+Instalazio-prozesua amaitu arte itxaroten ari gara konfigurazioarekin jarraitu ahal izateko.
 ![SEA 4](./img/SEA4.png)
+
 
 ![SEA 5](./img/SEA5.png)
 
+
 ![SEA 11](./img/SEA11.png)
 
+
 ![SEA 12](./img/SEA12.png)
+
 
 ![SEA 13](./img/SEA13.png)
 
