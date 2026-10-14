@@ -27,7 +27,16 @@ Windows Server sisteman, zerbitzariaren izena (hostname) eta lan-taldea konfigur
 Zerbitzariari izen propio bat ezartzen ari gatzaizkio sarean erraz identifikatu ahal izateko.
 ![SEA 2](./img/SEA2.png)
 
+# Zerbitzariaren Rolak Hautatzea
 
+Windows Server sisteman, **Rolak eta ezaugarriak gehitzeko laguntzailean** zerbitzarirako hiru rol nagusi hautatzen ari gara:
+
+### Hautatutako rolak:
+* **Active Directory domeinu-zerbitzuak (AD DS):** Saren erabiltzaileak, taldeak eta gailuak modu zentralizatuan kudeatzeko
+* **DHCP zerbitzaria:** Sarekideei IP helbideak automatikoki esleitzeko.
+* **DNS zerbitzaria:** Domeinu-izenak eta IP helbideak elkarren artean ebazteko.
+
+Zerbitzaria gure sareko domeinu-kontrolatzaile nagusi gisa prestatzen ari gara.
 ![SEA 3](./img/SEA3.png)
 
 ![SEA 4](./img/SEA4.png)
