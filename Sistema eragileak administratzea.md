@@ -16,8 +16,17 @@ Windows Server sisteman, **Ethernet 0** sare-txarteleko IPv4 ezarpenak eskuz kon
 Zerbitzariari IP finko bat ezartzen ari gatzaizkio sarean beti helbide bera izan dezan.
 ![SEA 1](./img/SEA1.png)
 
+# Ekiporaren Izena eta Lan-Taldea Konfiguratzea
 
+Windows Server sisteman, zerbitzariaren izena (hostname) eta lan-taldea konfiguratzen ari gara.
+
+### Konfigurazio datuak:
+* **Ekiporaren izena:** `ORBIS_WINDOWS
+* **Lan-taldea (Grupo de trabajo):** `WORKGROUP
+
+Zerbitzariari izen propio bat ezartzen ari gatzaizkio sarean erraz identifikatu ahal izateko.
 ![SEA 2](./img/SEA2.png)
+
 
 ![SEA 3](./img/SEA3.png)
 
