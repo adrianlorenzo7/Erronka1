@@ -109,5 +109,15 @@ Erabiltzaile hauek Marketing saileko kideei esleitu dizkiegu, domeinuan saioa ha
 Mota honetako ezarpenekin, sareko inprimagailuen erabilera kontrolatu eta baimendutako erabiltzaileek bakarrik inprimatzea lortzen dugu.
 ![SEA 14](./img/SEA14.png)
 
+# Administratzaileak Taldeari Kideak Gehitzea
 
+**Active Directoryko Erabiltzaile eta Ekipoen** kudeaketan (*Usuarios y equipos de Active Directory*), **Administratzaileak** segurtasun-taldearen propietateetan sail bakoitzeko ordezkariak gehitzen ari gara.
+
+### Taldeko kideak:
+* **`Adrian`:** Marketing saileko erabiltzailea (`ORBIS.lan/ORBIS/Marketing`).
+* **`Anne`:** Biltegia saileko erabiltzailea (`ORBIS.lan/ORBIS/Biltegia`).
+* **`Oinatz`:** Informatika saileko erabiltzailea (`ORBIS.lan/ORBIS/Informatika`).
+* **`Sara`:** Finantzak saileko erabiltzailea (`ORBIS.lan/ORBIS/Finantzak`).
+
+Talde honen bidez, sail ezberdinetako erabiltzaile jakinei administrazio-baimenak modu zentralizatuan esleitzen dizkiegu.
 ![SEA 15](./img/SEA15.png)
