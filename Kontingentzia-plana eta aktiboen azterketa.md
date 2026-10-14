@@ -6,6 +6,7 @@ title: "Segurtasuna eta erabilgarritasun handia"
 
 ---
 
+
 ## AURKIBIDEA
 
 1. [KONTINGENTZIA-PLANA ETA AKTIBOEN AZTERKETA](#1-kontingentzia-plana-eta-aktiboen-azterketa)
