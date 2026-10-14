@@ -1,6 +1,6 @@
 title: "Erronka 1 - Dokumentazioa"
 description: "Proiektuko dokumentazio ofiziala"
-theme: theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 
 header_pages:
   - Dokumentazioa.md
