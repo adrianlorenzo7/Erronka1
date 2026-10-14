@@ -14,3 +14,5 @@ title: Dokumentazioa
 **Ikastetxea:** CIFP Uni Eibar-Ermua LHII
 
 **Data:** 2026-10-14
+
+![Orbis](./img/orbis.png)
