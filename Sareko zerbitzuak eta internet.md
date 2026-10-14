@@ -91,6 +91,15 @@ Windows Server-eko DNS Kudeatzailean (*Administrador de DNS*), gure `orbis.eus` 
 
 ![SZ 5](./img/SZ5.png)
 
+### Active Directory Domeinuaren DNS Zonaldea (ORBIS.lan)
+
+Windows Server-eko DNS Kudeatzailean (*Administrador de DNS*), Active Directory Active Directory sare-egiturari dagokion **`ORBIS.lan`** zuzeneko bilaketa-zonalde nagusia ikuskatzen ari gara:
+
+1. **Domeinu Egitura eta Erregistroak aztertu ditugu:**
+
+   - **`orbis_windows` Host (A) Erregistroa (`192.168.10.1`):** Gure Windows Server zerbitzari nagusiaren IP helbidea lotzen du (`orbis_windows.orbis.lan`).
+
+
 ![SZ 6](./img/SZ6.png)
 
 ![SZ 7](./img/SZ7.png)
