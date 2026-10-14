@@ -29,7 +29,7 @@ Windows Server-eko DHCP zerbitzarian esparru berria (*Ámbito*) sortzen jarraitu
 DHCP esparruaren konfigurazioarekin jarraituz, helbide batzuk banaketatik kanpo uztea erabaki dugu:
 
 1. **IP Salbuespena gehitzea:** Morroiaren urrats honetan, aurretik definitutako tarte orokorren barruan (`192.168.10.50` - `192.168.10.150`), `192.168.10.55` helbidetik `192.168.10.60` helbiderainoko tartea salbuespen gisa erregistratu dugu (*Intervalo de direcciones excluido*).
-2. **Helburua:** Tarte honetako IP helbideak ez zaizkie behin ere automatikoki esleituko DHCP bidez konektatzen diren bezeroei. Horri esker, helbide horiek erreserbatuta gelditzen dira IP estatikoa behar duten gailu berezientzat (inprimagailuak, zerbitzariak edo bideratzaileak), gatazkak eta IP bikoiztuak saihesteko.
+
 
 ![SEA 8](./img/SEA8.png)
 
@@ -38,11 +38,15 @@ DHCP esparruaren konfigurazioarekin jarraituz, helbide batzuk banaketatik kanpo 
 DHCP esparruaren konfigurazio-morroiarekin aurrera jarraituz, helbide bakoitzaren alokairu-denbora zehaztu dugu:
 
 1. **Concesión edo Lagapen-denbora ezartzea:** Urrats honetan, bezero bati IP helbide bat gordeta mantenduko zaion denbora-muga **30 egunetan** (*Días: 30*) utzi dugu.
-2. **Helburua:** Parametro honek definitzen du gailu batek zenbat denboraz erabili ahal izango duen esleitutako IP bera berriztatu gabe. Sare egonkor batean denbora-muga luzeagoa ezartzeak (30 egun adibidez) sareko trafiko alferrikakoa gutxitzen du eta konexioaren jarraitutasuna bermatzen du.
 
 ![SEA 9](./img/SEA9.png)
 
-![SEA 10](./img/SEA10.png)
+### Ate Lehenetsiaren Konfigurazioa (Enrutador - Puerta de enlace predeterminada)
+
+DHCP esparruaren morroiarekin jarraituz, bezeroei helbide honekin batera bidaliko zaien bideratzailea zehaztu dugu:
+
+1. **Gateway edo Ate Lehenetsia gehitu dugu:** Urrats honetan, sareko bideratzailearen IP helbidea erregistratu dugu (**`192.168.10.254`**).
+
 
 ![SZ 1](./img/SZ1.png)
 
