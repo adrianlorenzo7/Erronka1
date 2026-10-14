@@ -50,6 +50,12 @@ DHCP esparruaren morroiarekin jarraituz, bezeroei helbide honekin batera bidalik
 
 ![SZ 1](./img/SZ1.png)
 
+### DHCP Maileguen Egiaztapena eta Kontrola (Concesiones de direcciones)
+
+Windows Server-eko DHCP zerbitzariaren konfigurazioa amaituta, maileguen egoera egiaztatu dugu:
+
+1. **Maileguen zerrenda aztertu dugu:** DHCP administratzailean **Concesiones de direcciones** atalean sartu gara. Bertan, sarean aktibo dauden IP helbideen zerrenda ikusten dugu (adibidez, `192.168.10.50`-tik aurrera), bezero bakoitzaren izenarekin (`jitsi.orbis.eus`, `cupsubuntu.ORBIS.lan`, `Win11_8.ORBIS.lan`, etab.).
+
 ![SZ 2](./img/SZ2.png)
 
 ![SZ 3](./img/SZ3.png)
