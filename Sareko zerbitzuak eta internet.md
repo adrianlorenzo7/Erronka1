@@ -97,7 +97,7 @@ Windows Server-eko DNS Kudeatzailean (*Administrador de DNS*), Active Directory 
 
 1. **Domeinu Egitura eta Erregistroak aztertu ditugu:**
 
-   - **`orbis_windows` Host (A) Erregistroa (`192.168.10.1`):** Gure Windows Server zerbitzari nagusiaren IP helbidea lotzen du (`orbis_windows.orbis.lan`).
+   - **`orbis_windows` Host (A) Erregistroa (`192.168.10.1`):** Gure Windows Server zerbitzari nagusiaren IP helbidea lotzen du.
 
 
 ![SZ 6](./img/SZ6.png)
@@ -113,6 +113,13 @@ Windows Server-eko DNS Kudeatzailean (*Administrador de DNS*), `10.168.192.in-ad
 
 
 ![SZ 7](./img/SZ7.png)
+
+### DNS Baldintzapeko Birbideratzaileen Konfigurazioa (Reenviadores condicionales - google)
+
+Windows Server-eko DNS Kudeatzailean (*Administrador de DNS*), **`google`** izeneko baldintzapeko birbideratzailea (*Reenviador condicional*) ezarri dugu:
+
+1. **Birbideratzailea eta IPa definitu ditugu:**
+   - Baldintzapeko birbideratze atalean **`google`** araua sortu eta kanpoko DNS zerbitzari publiko baten IP helbidea (**`8.8.8.8`**) esleitu diogu.
 
 ![SZ 8](./img/SZ8.png)
 
