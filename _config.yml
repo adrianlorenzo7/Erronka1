@@ -1,8 +1,9 @@
-title: "Erronka 1 - Dokumentazioa"
+title: "Mi Documentación - Erronka 1"
 description: "Proiektuko dokumentazio ofiziala"
-theme: jekyll-theme-cayman
+theme: minima
 
 header_pages:
+  - index.md
   - Dokumentazioa.md
   - Datu Baseak kudeatzeko administrazioa.md
   - Hardware oinarriak.md
