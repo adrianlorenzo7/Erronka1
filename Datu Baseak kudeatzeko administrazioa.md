@@ -7,4 +7,10 @@ title: "Datu Baseak kudeatzeko administrazioa"
 
 ![Captura de pantalla de la copia de seguridad](./img/BK2.png)
 
+![Captura de pantalla de la copia de seguridad](./img/BK3.png)
+
+![Captura de pantalla de la copia de seguridad](./img/BK4.png)
+
+![Captura de pantalla de la copia de seguridad](./img/BK5.png)
+
 
