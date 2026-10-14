@@ -74,12 +74,22 @@ Gure Active Directory egitura berrirako lehenengo domeinua eta basoa definitzen 
 Direktiba honen bidez, domeinuko gailu eta erabiltzaile guztietan atzeko planoko irudia (wallpaper) modu zentralizatuan ezartzea lortzen dugu.
 ![SEA 11](./img/SEA11.png)
 
+# Active Directoryko Antolaketa Unitateak (OU) Sortzea
 
+**Active Directoryko Erabiltzaile eta Ekipoen** kudeaketan (*Usuarios y equipos de Active Directory*), gure erakundearen egitura antolatzeko **ORBIS** Antolaketa Unitate (OU) nagusia eta sailen araberako azpi-unitateak zein taldeak sortu ditugu.
+
+### Sortutako osagaiak:
+* **Antolaketa Unitateak (OU):** `Biltegia`, `Finantzak`, `Informatika` eta `Marketing`.
+* **Segurtasun-taldea:** `Administratzaileak' taldea.
+
+Egitura honen bidez, sail bakoitzeko erabiltzaileak, baliabideak eta baimenak modu ordenatu eta zentralizatuan kudeatzea lortzen dugu.
 ![SEA 12](./img/SEA12.png)
 
 
 ![SEA 13](./img/SEA13.png)
 
+
 ![SEA 14](./img/SEA14.png)
+
 
 ![SEA 15](./img/SEA15.png)
