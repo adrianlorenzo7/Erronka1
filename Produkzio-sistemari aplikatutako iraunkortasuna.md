@@ -11,6 +11,7 @@ Gizarte-Jasangarritasuna: Balio-kate osoan (langileak, banatzaileak, e-commerce 
 Gobernantza Jasangarria: Algoritmo bidezko bidezkotasuna, zibersegurtasun-estandar gorena, datuen pribatutasuna (RGPD) eta iruzurren aurkako zero tolerantzia ezartzea.
 
 2. PLANAREN ATAL NAGUSIAK ETA SAKONERAKO GARAPENA
+
 A. INGURUMEN-GAIA (ENVIRONMENTAL)
 1. Ontziratze Kudeaketa Zirkularra eta Packaging Ekologikoa
 Plastiko Bakarreko Materialen Ezabatze Osoa:
