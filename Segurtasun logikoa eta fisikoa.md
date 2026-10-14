@@ -5,6 +5,7 @@ title: "Segurtasun logikoa eta fisikoa"
 
 # SEGURTASUN LOGIKOA ETA FISIKOA
 
+
 Gure online denda eta bezeroen datuak seguru mantentzeko, ondorengo segurtasun-neurri fisiko eta logikoak zehaztu ditugu[cite: 5]:
 
 ---
