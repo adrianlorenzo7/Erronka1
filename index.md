@@ -1,4 +1,8 @@
-# Dokumentazioa
+---
+layout: page
+title: Dokumentazioa
+---
+
 
 ## Erronka 1
 
