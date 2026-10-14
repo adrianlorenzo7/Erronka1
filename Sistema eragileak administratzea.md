@@ -51,7 +51,15 @@ Windows Server sisteman, aurreko urratsean hautatutako rolak, ezaugarriak eta ku
 Instalazio-prozesua amaitu arte itxaroten ari gara konfigurazioarekin jarraitu ahal izateko.
 ![SEA 4](./img/SEA4.png)
 
+# Active Directory Baso Berria Sortzea
 
+Windows Server sisteman, **Active Directory domeinu-zerbitzuak konfiguratzeko laguntzailean** baso berri bat sortzen ari gara.
+
+### Konfigurazio datuak:
+* **Inplementazio-eragiketa:** Baso berri bat gehitzea (*Agregar un nuevo bosque*).
+* **Erroko domeinu-izena:** `ORBIS.lan`.
+
+Gure Active Directory egitura berrirako lehenengo domeinua eta basoa definitzen ari gara.
 ![SEA 5](./img/SEA5.png)
 
 
