@@ -58,6 +58,13 @@ Windows Server-eko DHCP zerbitzariaren konfigurazioa amaituta, maileguen egoera 
 
 ![SZ 2](./img/SZ2.png)
 
+### DHCP Erreserbaren Sorkuntza (Reservas)
+
+Windows Server-eko DHCP zerbitzarian gailu zehatz bati IP finkoa esleitzeko, urrats hau burutu dugu:
+
+1. **Erreserben atala kudeatu dugu:** DHCP kudeatzailean **Reservas** atalean sartu eta erreserba berri bat sortu dugu. Bertan ikusten denez, **`[192.168.10.77] Bezero`** izeneko erreserba konfiguratu dugu.
+
+
 ![SZ 3](./img/SZ3.png)
 
 ![SZ 4](./img/SZ4.png)
