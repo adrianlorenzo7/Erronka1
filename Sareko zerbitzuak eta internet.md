@@ -67,6 +67,16 @@ Windows Server-eko DHCP zerbitzarian gailu zehatz bati IP finkoa esleitzeko, urr
 
 ![SZ 3](./img/SZ3.png)
 
+### DHCP Esparru-Aukeren Konfigurazioa (Opciones de ámbito)
+
+Windows Server-eko DHCP zerbitzarian `Langileak` esparruari dagozkion aukera nagusiak ezarri ditugu bezeroek sare-konfigurazio osoa jaso dezaten:
+
+1. **Esparru-aukerak (*Opciones de ámbito*) aztertu eta konfiguratu ditugu:**
+   - **`003 Enrutador`:** `192.168.10.254` helbidea ezarri dugu ate lehenetsi (Gateway) gisa, sareko trafikoa kanpora bideratzeko.
+   - **`006 Servidores DNS`:** `192.168.10.1` helbidea definitu dugu gure sareko DNS zerbitzari nagusi gisa, domeinu-izenak ebazteko.
+   - **`015 Nombre de dominio DNS`:** `ORBIS.lan` domeinu-izena esleitu dugu, sare barruko gailu guztiek domeinu beraren babespean lan egin dezaten.
+2. **Helburua:** Konfigurazio honi esker, DHCP zerbitzariak IP helbide bat esleitzeaz gain, bezero bakoitzari IPa, ate lehenetsia, DNS zerbitzaria eta domeinua automatikoki emango dizkio. Horrela, gailuek berehala izango dute konexio osoa eta bideratua sare lokalean eta kanpoan.<
+
 ![SZ 4](./img/SZ4.png)
 
 ![SZ 5](./img/SZ5.png)
