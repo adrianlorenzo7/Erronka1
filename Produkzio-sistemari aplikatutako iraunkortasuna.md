@@ -30,6 +30,7 @@ Itzulketen Prebentzio Adimenduna:
 Errealitate areagotuko (AR) probagailu birtualak eta adimen artifizial bidezko tamaina-gomendioak ezarriko dira plataforman, erosleek arropa edo produktu okerrak eskatzea eta ondorioz itzulketak egitea ekiditeko.
 "Orbis Outlet & Second Life" Atala:
 Kaltatutako ontziak dituzten edo itzulitako produktuek zabaldutako atal berezia izanen dute plataforman, prezio murriztuan saldu daitezen. Hondakin bihurtzea saihestuko da, ekonomia zirkularra sustatuz.
+
 B. GIZARTE-GAIA (SOCIAL)
 1. Lan-Baldintza Duinak, Osasuna eta Segurtasuna Biltegi zein Banaketan
 Prekaritatearen Aurkako Neurriak eta Soldata Bidezkoak:
@@ -47,6 +48,7 @@ Orbis-en webguneak eta aplikazioak WCAG 2.1 AA irisgarritasun-maila beteko dute,
 Ekoizle txikiei, artisautzei eta herriko dendei atal berezitua eskainiko zaie plataforman, komisio lehiakor super-apalduekin (%5 baino gutxiago), denda handien aurrean modu bidezkoan lehiatu daitezen.
 Gizarte Inpaktuko Produktuen Bultzada (Green & Fair Label):
 Bidezko merkataritzako (Fair Trade) eta Km0 produktuek ikusgaitasun berezia eta posizionamendu abantailatsua izanen dute bilaketa-emaitzetan.
+
 C. GOBERNANTZA-GAIA (GOVERNANCE)
 1. Etika Algoritmikoa eta Bilaketa Bidezkoak
 Posizionamendu Algoritmiko Gardena:
@@ -64,6 +66,7 @@ Hornitzaileen ESG Kodea:
 Orbis marketplace-n saltzen duten enpresa handi guztiek giza eskubideen, haurren lanaren debekuaren eta ingurumen-zainketaren ziurtagiriak aurkeztu beharko dituzte plataforman jarraitzeko.
 Ingurumena
 Inpaktu Nagusien Deskribapen Sakona: Banaketa-furgoneten garraioak sortutako CO2 igorpen handiak, ontziratze zein bilgarrien bidezko hondakin plastiko izugarriak, eta itzulketen ondoriozko logistika bikoitzaren eragina.
+
 Erronka Nagusiak eta Mugarriak:
 
 
@@ -79,6 +82,7 @@ Tokiko 1.000 denda txiki baino gehiago digitalizatzea plataforman baldintza babe
 Banatzaile eta biltegiko langile guztientzat %100 lan-baldintza duinak bermatzea auditoretzen bidez.
 Gobernantza
 Inpaktu Nagusien Deskribapen Sakona: Erabiltzaileen datuen segurtasun-arriskuak, algoritmoen opakotasuna saltzaileak sailkatzerakoan, eta hornitzaile batzuek giza-eskubideak ez betetzeko arriskua.
+
 Erronka Nagusiak eta Mugarriak:
 
 
