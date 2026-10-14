@@ -3,18 +3,18 @@ layout: page
 title: "Hacking etikoa"
 ---
 
-![Captura de pantalla de la copia de seguridad](./img/HAKING 1.png)
+![Captura de pantalla de la copia de seguridad](./img/HACKING1.png)
 
-![Captura de pantalla de la copia de seguridad](./img/HAKING 2.png)
+![Captura de pantalla de la copia de seguridad](./img/HACKING2.png)
 
-![Captura de pantalla de la copia de seguridad](./img/HAKING 3.png)
+![Captura de pantalla de la copia de seguridad](./img/HACKING3.png)
 
-![Captura de pantalla de la copia de seguridad](./img/HAKING 4.png)
+![Captura de pantalla de la copia de seguridad](./img/HACKING4.png)
 
-![Captura de pantalla de la copia de seguridad](./img/BK1.png)
+![Captura de pantalla de la copia de seguridad](./img/HACKING5.png)
 
-![Captura de pantalla de la copia de seguridad](./img/BK1.png)
+![Captura de pantalla de la copia de seguridad](./img/HACKING6.png)
 
-![Captura de pantalla de la copia de seguridad](./img/BK1.png)
+![Captura de pantalla de la copia de seguridad](./img/HACKING7.png)
 
-![Captura de pantalla de la copia de seguridad](./img/BK1.png)
+![Captura de pantalla de la copia de seguridad](./img/HACKING8.png)
