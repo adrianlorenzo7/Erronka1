@@ -12,6 +12,16 @@ Gure sareko gailuei IP helbideak automatikoki esleitzeko, urrats hauek eman ditu
    
 ![SEA 6](./img/SEA6.png)
 
+### IP Helbideen Barrutiaren Konfigurazioa (Intervalo de direcciones IP)
+
+Windows Server-eko DHCP zerbitzarian esparru berria (*Ámbito*) sortzen jarraituz, urrats hau burutu dugu:
+
+1. **IP Tartea eta Maskara ezarri ditugu:** Morroiaren urrats honetan, langileen gailuei esleituko zaien IP helbideen tartea definitu dugu:
+   - **Hasierako IP-a:** `192.168.10.50`
+   - **Amaierako IP-a:** `192.168.10.150`
+   - **Luzera eta Azpisare-maskara:** `24` eta `255.255.255.0` (hau da, C klaseko azpisare estandarra).
+2. **Helburua:** Tarte honek bermatzen du sarean konektatzen diren bezeroek automatikoki IP helbide bat jasoko dutela `192.168.10.50` eta `192.168.10.150` artean.
+
 ![SEA 7](./img/SEA7.png)
 
 ![SEA 8](./img/SEA8.png)
