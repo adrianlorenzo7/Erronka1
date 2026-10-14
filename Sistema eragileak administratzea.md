@@ -85,7 +85,16 @@ Direktiba honen bidez, domeinuko gailu eta erabiltzaile guztietan atzeko planoko
 Egitura honen bidez, sail bakoitzeko erabiltzaileak, baliabideak eta baimenak modu ordenatu eta zentralizatuan kudeatzea lortzen dugu.
 ![SEA 12](./img/SEA12.png)
 
+# Marketing Sailan Erabiltzaileak Sortzea
 
+**Active Directoryko Erabiltzaile eta Ekipoen** kudeaketan (*Usuarios y equipos de Active Directory*), **Marketing** Antolaketa Unitatearen (OU) barruan saileko erabiltzaile-kontuak sortu ditugu.
+
+### Sortutako erabiltzaileak:
+* **`Adrian`:** Erabiltzaile-kontua (*Usuario*).
+* **`Marketing1`:** Erabiltzaile-kontua (*Usuario*).
+* **`Marketing2`:** Erabiltzaile-kontua (*Usuario*).
+
+Erabiltzaile hauek Marketing saileko kideei esleitu dizkiegu, domeinuan saioa hasi eta dagozkien baimenekin lan egin dezaten.
 ![SEA 13](./img/SEA13.png)
 
 
