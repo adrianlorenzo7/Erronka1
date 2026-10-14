@@ -76,7 +76,7 @@ Proiektu honetan, hainbat ahulgune identifikatu dira, eta horiek eraso mota desb
 
 ## KAPTURA PANTAILAK
 
-![HACKING1](img/HACKING1.png)
+![HACKING1](./img/HACKING1.png)
 *Figura 1: Metasploitable interfazearen eta IP helbidearen konfigurazioa.*
 
 ![HACKING2](img/HACKING2.png)
