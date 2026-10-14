@@ -77,28 +77,26 @@ Proiektu honetan, hainbat ahulgune identifikatu dira, eta horiek eraso mota desb
 ## KAPTURA PANTAILAK
 
 ![HACKING1](./img/HACKING%201.png)
-*Figura 1: Metasploitable interfazearen eta IP helbidearen konfigurazioa.*
+
 
 ![HACKING2](img/HACKING%202.png)
-*Figura 2: Kali Linux eth0 interfazearen eta IP helbidearen konfigurazioa.*
+
 
 ![HACKING3](img/HACKING%203.png)
-*Figura 3: Kali Linux-etik Metasploitable-rako ping proba.*
+
 
 ![HACKING4](img/HACKING%204.png)
-*Figura 4: Nmap-en bidezko portu eta zerbitzuen analisia.*
+
 
 ![HACKING5](img/HACKING%205.png)
-*Figura 5: Nmap vulnet gidoien bidezko ahultasun analisia (vsftpd backdoor).*
+
 
 ![HACKING6](img/HACKING%206.png)
-*Figura 6: HTTP eta RMI zerbitzuen zaurgarritasun analisia.*
+
 
 ![HACKING7](img/HACKING%207.png)
-*Figura 7: Slowloris DoS eta CSRF ahultasunen analisia.*
 
 ![HACKING8](img/HACKING%208.png)
-*Figura 8: Bide publikoen eta direktorioen analisia (http-enum).*
 
 ---
 
