@@ -102,6 +102,16 @@ Windows Server-eko DNS Kudeatzailean (*Administrador de DNS*), Active Directory 
 
 ![SZ 6](./img/SZ6.png)
 
+### DNS Alderantzizko Bilaketa Zonaldearen Konfigurazioa (10.168.192.in-addr.arpa)
+
+Windows Server-eko DNS Kudeatzailean (*Administrador de DNS*), `10.168.192.in-addr.arpa` alderantzizko bilaketa-zonaldea (*Zona de búsqueda inversa*) konfiguratu dugu gure sareko IP helbideak dagokien domeinu-izenekin lotzeko:
+
+1. **Puntero (PTR) Erregistroak sortu ditugu:**
+   - **`192.168.10.2` $\rightarrow$ `glpi.orbis.eus.`:** IP helbide hau GLPI zerbitzuaren izenarekin lotu dugu.
+   - **`192.168.10.2` $\rightarrow$ `jitsi.orbis.eus.`:** IP bera Jitsi bideokonferentzia zerbitzuarekin lotu dugu.
+   - **`192.168.10.3` $\rightarrow$ `cups.orbis.eus.`:** IP helbide hau inprimatze-zerbitzariaren izenarekin lotu dugu.
+
+
 ![SZ 7](./img/SZ7.png)
 
 ![SZ 8](./img/SZ8.png)
