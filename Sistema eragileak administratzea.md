@@ -62,7 +62,16 @@ Windows Server sisteman, **Active Directory domeinu-zerbitzuak konfiguratzeko la
 Gure Active Directory egitura berrirako lehenengo domeinua eta basoa definitzen ari gara.
 ![SEA 5](./img/SEA5.png)
 
+# Talde-Direktiba Berria (GPO): Pantaila-Atzealdea
 
+**Talde-direktiben kudeaketan** (*Administración de directivas de grupo*) GPO berri bat konfiguratu eta **`ORBIS.lan`** domeinura estekatu dugu.
+
+### Konfigurazio datuak:
+* **GPOren izena:** `Fondo de pantalla`.
+* **Estekatutako lekua (Vínculo):** `ORBIS.lan` domeinuan (Nahitaezkoa/Exigido: Bai).
+* **Segurtasun-iragazkia:** `Usuarios autenticados` (Autentifikatutako erabiltzaile guztiei ezartzen zaie).
+
+Direktiba honen bidez, domeinuko gailu eta erabiltzaile guztietan atzeko planoko irudia (wallpaper) modu zentralizatuan ezartzea lortzen dugu.
 ![SEA 11](./img/SEA11.png)
 
 
