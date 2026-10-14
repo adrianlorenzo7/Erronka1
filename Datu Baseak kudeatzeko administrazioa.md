@@ -97,12 +97,12 @@ Orbis lau departamentu nagusitan banatuta dago (IT/Teknologia, Administrazioa, B
 ### 4. MariaDB Erabiltzaileen Sorkuntza eta Baimenak (Kapturak)
 
 #### Lehenengo Kaptura (Administratzailearen sorkuntza)
-Irudi honetan MariaDB kontsolan sartzen gara root erabiltzaile gisa, eta **`admin_orbis`** administratzaile berria sortzen dugu[cite: 16]:
+Irudi honetan MariaDB kontsolan sartzen gara root erabiltzaile gisa, eta **`admin_orbis`** administratzaile berria sortzen dugu:
 
 ![Captura de pantalla de la copia de seguridad](./img/DB3.png)
 
 #### Bigarren Kaptura (Langilearen sorkuntza eta amaiera)
-Irudi honetan **`langile_orbis`** erabiltzailea sortzen dugu eta baimen mugatuak esleitzen dizkiogu, baita saioa amaitu ere[cite: 16]:
+Irudi honetan **`langile_orbis`** erabiltzailea sortzen dugu eta baimen mugatuak esleitzen dizkiogu, baita saioa amaitu ere:
 
 ![Captura de pantalla de la copia de seguridad](./img/DB4.png)
 
@@ -112,19 +112,17 @@ Irudi honetan MongoDB-ko kudeaketa-kontsolan **`AdminOrbis`** administratzaile n
 ![Captura de pantalla de la copia de seguridad](./img/DB5.png)
 
 #### MongoDB Langile Erabiltzailearen Sorkuntza
-Irudi honetan MongoDB-n **`LangileOrbis`** langile-erabiltzailea sortzen dugu `orbis_denda` datu-base zehatzerako[cite: 14]:
+Irudi honetan MongoDB-n **`LangileOrbis`** langile-erabiltzailea sortzen dugu `orbis_denda` datu-base zehatzerako:
 
 ![Captura de pantalla de la copia de seguridad](./img/BK1.png)
 
 #### MariaDB Datu-Basearen, Taularen eta Datuen Sorkuntza
-Irudi honetan MariaDB kontsolan `orbis_db` datu-basea sortu, haren egitura definitu eta lehenengo datuak sartzen dugu[cite: 15]:
+Irudi honetan MariaDB kontsolan `orbis_db` datu-basea sortu, haren egitura definitu eta lehenengo datuak sartzen dugu:
 
 ![Captura de pantalla de la copia de seguridad](./img/BK2.png)
 
 #### MongoDB Compass Erabilera (Interfaze Grafikoa)
 Irudi honetan **MongoDB Compass** interfaze grafikoa erabiltzen ari gara `orbis_denda` datu-basearen eta `productos` bildumaren edukiak ikusteko eta kudeatzeko:
-
-- **Konexioa eta nabigazioa (`localhost:27017`):** Ezkerreko panelean tokiko zerbitzariarekin egindako konexioa ikusten da, eta bertan `orbis_denda` datu-basearen barruan `productos` bilduma hautatuta dago[cite: 16].
 
 
 ![Captura de pantalla de la copia de seguridad](./img/BK3.png)
