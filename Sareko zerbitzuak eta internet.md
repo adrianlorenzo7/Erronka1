@@ -79,6 +79,16 @@ Windows Server-eko DHCP zerbitzarian `Langileak` esparruari dagozkion aukera nag
 
 ![SZ 4](./img/SZ4.png)
 
+### DNS Zuzeneko Bilaketa Zonaldearen Konfigurazioa (orbis.eus)
+
+Windows Server-eko DNS Kudeatzailean (*Administrador de DNS*), gure `orbis.eus` zuzeneko bilaketa-zonan gure zerbitzu nagusien erregistroak (Host A) konfiguratu ditugu:
+
+1. **Host (A) Erregistroak sortu ditugu:**
+   - **`cups` (`192.168.10.3`):** Inprimatze-zerbitzari nagusiaren helbidea lotu dugu.
+   - **`glpi` (`192.168.10.2`):** Kudeaketa-sistemaren IP helbidea esleitu dugu.
+   - **`jitsi` (`192.168.10.2`):** Bideokonferentzia-zerbitzuaren helbide IPa bideratu dugu.
+   - **`wordpress` (`192.168.10.3`):** Web atariaren zerbitzariaren helbide IPa lotu dugu.
+
 ![SZ 5](./img/SZ5.png)
 
 ![SZ 6](./img/SZ6.png)
