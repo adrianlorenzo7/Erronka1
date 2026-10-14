@@ -33,6 +33,13 @@ DHCP esparruaren konfigurazioarekin jarraituz, helbide batzuk banaketatik kanpo 
 
 ![SEA 8](./img/SEA8.png)
 
+### IP Lagapenaren Denbora-Muga Konfiguratzea (Duración de la concesión)
+
+DHCP esparruaren konfigurazio-morroiarekin aurrera jarraituz, helbide bakoitzaren alokairu-denbora zehaztu dugu:
+
+1. **Concesión edo Lagapen-denbora ezartzea:** Urrats honetan, bezero bati IP helbide bat gordeta mantenduko zaion denbora-muga **30 egunetan** (*Días: 30*) utzi dugu.
+2. **Helburua:** Parametro honek definitzen du gailu batek zenbat denboraz erabili ahal izango duen esleitutako IP bera berriztatu gabe. Sare egonkor batean denbora-muga luzeagoa ezartzeak (30 egun adibidez) sareko trafiko alferrikakoa gutxitzen du eta konexioaren jarraitutasuna bermatzen du.
+
 ![SEA 9](./img/SEA9.png)
 
 ![SEA 10](./img/SEA10.png)
