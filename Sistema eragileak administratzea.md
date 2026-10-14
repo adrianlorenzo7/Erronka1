@@ -3,7 +3,19 @@ layout: page
 title: "Sistema eragileak administratzea"
 ---
 
+# Sarearen IPv4 Konfigurazioa
+
+Windows Server sisteman, **Ethernet 0** sare-txarteleko IPv4 ezarpenak eskuz konfiguratzen ari gara, IP helbide estatiko bat ezartzeko[cite: 1].
+
+### Konfigurazio datuak:
+* **IP helbidea:** `192.168.10.1
+* **Azpisare-maskara:** `255.255.255
+* **Atebide lehenetsia (Gateway):** `192.168.10.254
+* **DNS zerbitzari nagusia:** `192.168.10.1
+
+Zerbitzariari IP finko bat ezartzen ari gatzaizkio sarean beti helbide bera izan dezan.
 ![SEA 1](./img/SEA1.png)
+
 
 ![SEA 2](./img/SEA2.png)
 
