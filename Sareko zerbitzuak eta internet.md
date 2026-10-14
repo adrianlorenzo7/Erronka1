@@ -24,6 +24,13 @@ Windows Server-eko DHCP zerbitzarian esparru berria (*Ámbito*) sortzen jarraitu
 
 ![SEA 7](./img/SEA7.png)
 
+### IP Salbuespenak Konfiguratzea (Agregar exclusiones y retraso)
+
+DHCP esparruaren konfigurazioarekin jarraituz, helbide batzuk banaketatik kanpo uztea erabaki dugu:
+
+1. **IP Salbuespena gehitzea:** Morroiaren urrats honetan, aurretik definitutako tarte orokorren barruan (`192.168.10.50` - `192.168.10.150`), `192.168.10.55` helbidetik `192.168.10.60` helbiderainoko tartea salbuespen gisa erregistratu dugu (*Intervalo de direcciones excluido*).
+2. **Helburua:** Tarte honetako IP helbideak ez zaizkie behin ere automatikoki esleituko DHCP bidez konektatzen diren bezeroei. Horri esker, helbide horiek erreserbatuta gelditzen dira IP estatikoa behar duten gailu berezientzat (inprimagailuak, zerbitzariak edo bideratzaileak), gatazkak eta IP bikoiztuak saihesteko.
+
 ![SEA 8](./img/SEA8.png)
 
 ![SEA 9](./img/SEA9.png)
