@@ -25,6 +25,14 @@ Atariari itxura profesionala eta korporatiboa emateko, urrats hauek jarraitu dit
    
 ![WAE 4](./img/WAE4.png)
 
+### GLPI Inbentario-Sistemaren Instalazioa eta Kudeaketa (Ubuntu)
+
+Gure azpiegitura teknikoaren baliabideak eta inbentarioa kudeatzeko, urrats hauek jarraitu ditugu:
+
+1. **GLPI Ubuntu Zerbitzarian instalatu dugu:** Ubuntu zerbitzarian GLPI plataforma konfiguratu dugu, gure IT lanabesen eta ekipoen inbentarioa erregistratzeko.
+2. **Aktiboen atalera joan gara:** Behin web interfazean sartuta, ezkerreko menuan **Activos > Ordenadores** atala hautatu dugu ekipoak kudeatzeko.
+3. **Makina Birtuala erregistratu dugu:** Argazkian ikusten denez, gure **`Ubuntu Server Erronka`** makina birtuala gehituta utzi dugu, mota gisa *Máquina Virtual* ezarriz eta azken eguneraketa-data erregistratuz.
+
 ![WAE 3](./img/WAE3.png)
 
 
