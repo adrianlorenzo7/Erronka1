@@ -97,7 +97,16 @@ Egitura honen bidez, sail bakoitzeko erabiltzaileak, baliabideak eta baimenak mo
 Erabiltzaile hauek Marketing saileko kideei esleitu dizkiegu, domeinuan saioa hasi eta dagozkien baimenekin lan egin dezaten.
 ![SEA 13](./img/SEA13.png)
 
+# Inprimagailu Baten Segurtasun Baimenak Ezartzea
 
+**Inprimatze-kudeaketan** (*Administración de impresión*), **`Biltegia1`** inprimagailuaren segurtasun-baimenak konfiguratzen ari gara `ORBIS.lan` domeinuko kideentzat.
+
+### Konfigurazio datuak:
+* **Inprimagailua:** `Biltegia1`.
+* **Erabiltzailea / Taldea:** `Biltegia1 (biltegia1@ORBIS.lan)`.
+* **Baimena:** Inprimatzeko baimena (*Imprimir -> Permitir*) esleitzen ari gara.
+
+Mota honetako ezarpenekin, sareko inprimagailuen erabilera kontrolatu eta baimendutako erabiltzaileek bakarrik inprimatzea lortzen dugu.
 ![SEA 14](./img/SEA14.png)
 
 
