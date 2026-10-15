@@ -88,6 +88,9 @@ Direktiba honen bidez, domeinuko gailu eta erabiltzaile guztietan atzeko planoko
 
 ![cmd](./img/cmd.png)
 
+![cmd2](./img/cmd2.png)
+
+
 # Active Directoryko Antolaketa Unitateak (OU) Sortzea
 
 **Active Directoryko Erabiltzaile eta Ekipoen** kudeaketan (*Usuarios y equipos de Active Directory*), gure erakundearen egitura antolatzeko **ORBIS** Antolaketa Unitate (OU) nagusia eta sailen araberako azpi-unitateak zein taldeak sortu ditugu.
