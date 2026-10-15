@@ -74,6 +74,20 @@ Gure Active Directory egitura berrirako lehenengo domeinua eta basoa definitzen 
 Direktiba honen bidez, domeinuko gailu eta erabiltzaile guztietan atzeko planoko irudia (wallpaper) modu zentralizatuan ezartzea lortzen dugu.
 ![SEA 11](./img/SEA11.png)
 
+# Talde-politiken (GPO) Kudeaketa 
+
+## 1. Google Chrome instalatzeko direktiba 
+- Google Chrome nabigatzailea automatikoki instalatu eta konfiguratzeko GPO (*Group Policy Object*) bat sortu dugu.
+- **Delegazioa** (*Delegación*) fitxan direktiba honek dituen baimenak ikusten dira (Administratzaileak, SYSTEM eta Erabiltzaile egiaztatuak).
+
+![chrome](./img/chrome.png)
+
+## 2. CMD blokeatzeko direktiba
+- Komando-linterpretea (*Command Prompt* / CMD) blokeatzeko eta erabiltzaileek erabili ezin izateko GPO bat konfiguratu da.
+- **Delegazioa** fitxan `Marketing1` erabiltzailea/taldea gehitu da direktibaren baimen zehatzetan, iragazketa bidez politika hau beraiei aplikatzeko.
+
+![cmd](./img/cmd.png)
+
 # Active Directoryko Antolaketa Unitateak (OU) Sortzea
 
 **Active Directoryko Erabiltzaile eta Ekipoen** kudeaketan (*Usuarios y equipos de Active Directory*), gure erakundearen egitura antolatzeko **ORBIS** Antolaketa Unitate (OU) nagusia eta sailen araberako azpi-unitateak zein taldeak sortu ditugu.
