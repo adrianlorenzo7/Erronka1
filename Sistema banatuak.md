@@ -15,3 +15,4 @@ Horrez gain hurrengo irudian ikusten den moduan disko bakarra dugu 3 partiziotan
 
 ![SB3](./img/SB3.png)
 
+![SB4](./img/SB4.png)
